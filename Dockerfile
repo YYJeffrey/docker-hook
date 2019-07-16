@@ -1,3 +1,3 @@
 # Jeffrey Docker hook
 From busybox:latest
-CMD echo Hello Docker
+CMD echo nocode
